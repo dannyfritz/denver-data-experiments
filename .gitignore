@@ -1,5 +1,5 @@
-./**/*.csv
-./**/*.txt
+*.csv
+*.txt
 
 # Logs
 logs

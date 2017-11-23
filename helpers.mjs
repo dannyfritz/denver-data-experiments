@@ -64,7 +64,6 @@ export class SkipFirstLine extends Transform {
   constructor () {
     super()
     this.skipped = false
-    this.buffer = ""
   }
   _transform (data, encoding, processed) {
     let str = data.toString()
