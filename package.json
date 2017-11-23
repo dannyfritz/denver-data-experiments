@@ -1,0 +1,11 @@
+{
+  "name": "denver-data-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "Danny Fritz <dannyfritz@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@std/esm": "^0.17.1"
+  }
+}

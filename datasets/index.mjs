@@ -1,0 +1,1 @@
+export const TRAFFIC_ACCIDENTS = `https://www.denvergov.org/media/gis/DataCatalog/traffic_accidents/csv/traffic_accidents.csv`
